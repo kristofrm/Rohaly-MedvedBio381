@@ -1,0 +1,7 @@
+---
+title: "Homework_2"
+output: html_document
+date: "2025-01-29"
+---
+
+This site is a portfolio for Bio381. This is where I will upload assignments and homework.
